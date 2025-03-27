@@ -1,0 +1,72 @@
+ID,NHP,DPI,Group,Treatment,GEq/mL
+sample01,C-1,0,Baseline,Control,0
+sample02,C-2,0,Baseline,Control,0
+sample03,C-3,0,Baseline,Control,0
+sample04,C-4,0,Baseline,Control,0
+sample05,C-5,0,Baseline,Control,0
+sample06,C-1,3,Early,Control,0
+sample07,C-2,3,Early,Control,0
+sample08,C-3,3,Early,Control,898000
+sample09,C-4,3,Early,Control,2200000
+sample10,C-5,3,Early,Control,0
+sample11,C-1,4,Early,Control,1060000
+sample12,C-2,4,Early,Control,0
+sample13,C-3,4,Early,Control,9440000
+sample14,C-4,4,Early,Control,9740000
+sample15,C-5,4,Early,Control,2000000
+sample16,C-1,7,Middle,Control,279000000
+sample17,C-2,7,Middle,Control,35000000
+sample18,C-3,7,Middle,Control,4790000000
+sample19,C-4,7,Middle,Control,2170000000
+sample20,C-5,7,Middle,Control,107000000
+sample21,C-3,9,Late,Control,14800000000
+sample22,C-2,10,Late,Control,1110000000
+sample23,C-4,10,Late,Control,80800000000
+sample24,C-5,10,Late,Control,24100000000
+sample25,C-4,11,Late,Control,1.84E+11
+sample26,C-5,11,Late,Control,44600000000
+sample27,C-2,13,Late,Control,25600000000
+sample28,Tx-1,0,Baseline,4' FIU,0
+sample29,C-6,0,Baseline,Control,0
+sample30,Tx-2,0,Baseline,4' FIU,0
+sample31,Tx-3,0,Baseline,4' FIU,0
+sample32,Tx-4,0,Baseline,4' FIU,0
+sample33,Tx-5,0,Baseline,4' FIU,0
+sample34,Tx-1,6,Middle,4' FIU,62900000
+sample35,C-6,6,Middle,Control,56900000
+sample36,Tx-2,6,Middle,4' FIU,105000000
+sample37,Tx-3,6,Middle,4' FIU,39100000
+sample38,Tx-4,6,Middle,4' FIU,11200000
+sample39,Tx-5,6,Middle,4' FIU,60900000
+sample40,Tx-1,9,Transitional,4' FIU,56300000
+sample41,C-6,9,Late,Control,1140000000
+sample42,Tx-2,9,Transitional,4' FIU,22900000
+sample43,Tx-3,9,Transitional,4' FIU,50300000
+sample44,Tx-4,9,Transitional,4' FIU,3060000
+sample45,Tx-5,9,Transitional,4' FIU,9150000
+sample46,C-6,11,Late,Control,52800000000
+sample47,Tx-1,12,Transitional,4' FIU,9350000
+sample48,Tx-2,12,Transitional,4' FIU,3140000
+sample49,Tx-3,12,Transitional,4' FIU,7010000
+sample50,Tx-4,12,Transitional,4' FIU,278000
+sample51,Tx-5,12,Transitional,4' FIU,669000
+sample52,Tx-1,15,Recovered,4' FIU,1350000
+sample53,Tx-2,15,Recovered,4' FIU,1680000
+sample54,Tx-3,15,Recovered,4' FIU,1490000
+sample55,Tx-4,15,Recovered,4' FIU,99600
+sample56,Tx-5,15,Recovered,4' FIU,232000
+sample57,Tx-1,21,Recovered,4' FIU,289000
+sample58,Tx-2,21,Recovered,4' FIU,238000
+sample59,Tx-3,21,Recovered,4' FIU,930000
+sample60,Tx-4,21,Recovered,4' FIU,760000
+sample61,Tx-5,21,Recovered,4' FIU,0
+sample62,Tx-1,28,Recovered,4' FIU,988000
+sample63,Tx-2,28,Recovered,4' FIU,370000
+sample64,Tx-3,28,Recovered,4' FIU,853000
+sample65,Tx-4,28,Recovered,4' FIU,5870000
+sample66,Tx-5,28,Recovered,4' FIU,0
+sample67,Tx-1,35,Recovered,4' FIU,0
+sample68,Tx-2,35,Recovered,4' FIU,0
+sample69,Tx-3,35,Recovered,4' FIU,0
+sample70,Tx-4,35,Recovered,4' FIU,933000
+sample71,Tx-5,35,Recovered,4' FIU,0
