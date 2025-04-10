@@ -1,0 +1,1456 @@
+﻿Type,Name,Baseline,Transitional/Late
+Upstream,IFNG,1.562,-5.45
+Upstream,interferon alpha,0.886,-4.679
+Upstream,IRF7,,-3.985
+Upstream,IFNB1,,-3.971
+Upstream,STING1,,-3.918
+Upstream,IL1B,,-3.91
+Upstream,IFN beta,,-3.881
+Upstream,TNF,2.186,-3.845
+Upstream,CAMP,,-3.619
+Upstream,IL27,,-3.552
+Upstream,NFkB (complex),1.943,-3.547
+Upstream,IFNA2,,-3.526
+Upstream,IFN type 1,,-3.525
+Upstream,IL1A,,-3.501
+Upstream,TICAM1,,-3.464
+Upstream,IRF3,,-3.433
+Upstream,CHROMR,,-3.38
+Upstream,NONO,,-3.286
+Upstream,TERT,,-3.261
+Upstream,IRF1,0.832,-3.201
+Upstream,RIGI,,-3.174
+Upstream,MAVS,,-3.166
+Upstream,IFNL1,,-3.138
+Upstream,LDL,,-3.13
+Upstream,RIPK2,,-3.109
+Upstream,IFN,,-3.072
+Upstream,TLR9,,-3.034
+Upstream,OSM,,-2.992
+Upstream,PI3K (complex),,-2.973
+Upstream,MYD88,,-2.971
+Upstream,TLR4,,-2.969
+Upstream,IFNA1/IFNA13,,-2.928
+Upstream,IL6,,-2.908
+Upstream,IL33,,-2.899
+Upstream,TNF (family),,-2.854
+Upstream,TLR7,,-2.849
+Upstream,Ap1,,-2.776
+Upstream,IFNAR1,,-2.77
+Upstream,TNIK,,-2.751
+Upstream,cytokine,,-2.733
+Upstream,PRKCA,,-2.688
+Upstream,JUN,,-2.68
+Upstream,IFNAR,,-2.666
+Upstream,RNY3,,-2.646
+Upstream,JAK,,-2.646
+Upstream,TNFSF12,,-2.644
+Upstream,STAT1,,-2.635
+Upstream,TLR,,-2.629
+Upstream,CEBPE,,-2.618
+Upstream,IL25,,-2.605
+Upstream,IFNA4,,-2.566
+Upstream,RELA,,-2.562
+Upstream,IL21,,-2.555
+Upstream,IL18,,-2.474
+Upstream,PAF1,,-2.449
+Upstream,IFNL4,,-2.442
+Upstream,p38 MAPK,,-2.433
+Upstream,ORMDL3,,-2.433
+Upstream,IFNA8,,-2.429
+Upstream,EHF,,-2.425
+Upstream,IFNA16,,-2.414
+Upstream,IFNA6,,-2.414
+Upstream,IFNA10,,-2.414
+Upstream,IFNA14,,-2.414
+Upstream,IFNA7,,-2.414
+Upstream,IFNA5,,-2.414
+Upstream,IFNA21,,-2.41
+Upstream,TLR3,,-2.397
+Upstream,IL4,0.621,-2.394
+Upstream,SLC15A4,,-2.376
+Upstream,CGAS,,-2.373
+Upstream,KLF6,,-2.366
+Upstream,IL12 (complex),,-2.365
+Upstream,PML,,-2.345
+Upstream,Mrgpra2a (includes others),,-2.333
+Upstream,CSF,,-2.333
+Upstream,FOXC1,,-2.333
+Upstream,ZBTB10,,-2.309
+Upstream,BTK,,-2.296
+Upstream,CHUK,,-2.287
+Upstream,MAPK14,,-2.282
+Upstream,IL2,,-2.259
+Upstream,PLAU,,-2.243
+Upstream,SMARCA4,,-2.236
+Upstream,MFGE8,,-2.219
+Upstream,IL15,,-2.216
+Upstream,EBI3,,-2.207
+Upstream,PARP9,,-2.19
+Upstream,IFIH1,,-2.185
+Upstream,AHR,,-2.169
+Upstream,IgE,,-2.161
+Upstream,TSH,,-2.159
+Upstream,CXCR3,,-2.156
+Upstream,AGT,,-2.152
+Upstream,TGM2,,-2.147
+Upstream,BHLHE40,,-2.141
+Upstream,IKBKG,,-2.138
+Upstream,LIF,,-2.131
+Upstream,PFKFB3,,-2.12
+Upstream,TYK2,,-2.09
+Upstream,CD40LG,1.948,-2.033
+Upstream,S100A9,,-2.002
+Upstream,SMARCB1,,-2
+Upstream,Hbb-b2,,-2
+Upstream,POU4F2,,-2
+Upstream,DNM1L,,-1.995
+Upstream,PIK3CA,,-1.982
+Upstream,YTHDC2,,-1.982
+Upstream,ECSIT,,-1.982
+Upstream,IC,,-1.982
+Upstream,pro-inflammatory cytokine,,-1.982
+Upstream,Ifnl2/Ifnl3,,-1.981
+Upstream,EBF1,,-1.98
+Upstream,TPH1,,-1.98
+Upstream,STAT1 Dimer,,-1.976
+Upstream,SELPLG,,-1.976
+Upstream,STAT4,,-1.976
+Upstream,CCL5,,-1.976
+Upstream,CCL20,,-1.97
+Upstream,CTSK,,-1.96
+Upstream,IL31,,-1.958
+Upstream,SPI1,,-1.956
+Upstream,PLAAT4,,-1.956
+Upstream,APP,,-1.953
+Upstream,NFKBIZ,,-1.952
+Upstream,NFIL3,,-1.941
+Upstream,DOCK8,,-1.941
+Upstream,MUC1,,-1.937
+Upstream,IKBKB,,-1.936
+Upstream,IL12B,,-1.933
+Upstream,IL23,,-1.932
+Upstream,CX3CL1,,-1.919
+Upstream,PF4,,-1.908
+Upstream,TP53,-0.693,-1.9
+Upstream,IL17A,,-1.899
+Upstream,UBE2M,,-1.89
+Upstream,IFN alpha/beta,,-1.883
+Upstream,CD36,,-1.876
+Upstream,IFN gamma,,-1.873
+Upstream,IRAK1,,-1.864
+Upstream,IL1,,-1.844
+Upstream,NOS2,,-1.841
+Upstream,TP63,,-1.839
+Upstream,CYBB,,-1.829
+Upstream,NFKB1,,-1.829
+Upstream,C1QA,,-1.821
+Upstream,LDLR,,-1.812
+Upstream,IRF6,,-1.809
+Upstream,PKA,,-1.806
+Upstream,mir-24 (includes others),,-1.801
+Upstream,mir-15 (includes others),,-1.797
+Upstream,IL22,,-1.783
+Upstream,TNFSF13B,,-1.782
+Upstream,CREB,,-1.771
+Upstream,NFkB (family),,-1.746
+Upstream,CEBPA,,-1.736
+Upstream,TRADD,,-1.72
+Upstream,CCR1,,-1.715
+Upstream,STAT2,,-1.714
+Upstream,IL12 (family),,-1.708
+Upstream,MAP3K14,,-1.706
+Upstream,CG,,-1.701
+Upstream,CD38,,-1.698
+Upstream,PTGS2,,-1.684
+Upstream,PRL,,-1.677
+Upstream,FADD,,-1.671
+Upstream,HDAC6,,-1.671
+Upstream,CSF3,,-1.668
+Upstream,IL17RA,,-1.664
+Upstream,IL4R,,-1.664
+Upstream,ANGPT2,,-1.65
+Upstream,MAP3K7,,-1.645
+Upstream,TGFB1,0.77,-1.64
+Upstream,SAA1,,-1.634
+Upstream,CD14,,-1.63
+Upstream,SAA,,-1.63
+Upstream,EDN1,,-1.617
+Upstream,TBK1,,-1.594
+Upstream,JAK1,,-1.577
+Upstream,S100A8,,-1.555
+Upstream,Immunoglobulin,0.446,-1.554
+Upstream,ZBP1,,-1.536
+Upstream,mir-181 (includes others),,-1.533
+Upstream,RICTOR,,-1.532
+Upstream,EGR2,,-1.532
+Upstream,GNAQ,,-1.518
+Upstream,RAF1,,-1.516
+Upstream,TWIST1,,-1.508
+Upstream,EGF,,-1.495
+Upstream,IL12A,,-1.487
+Upstream,IRF5,,-1.486
+Upstream,ITGAM,,-1.48
+Upstream,NfkB-RelA,,-1.48
+Upstream,MET,,-1.459
+Upstream,ATF2,,-1.447
+Upstream,mir-10 (includes others),,-1.446
+Upstream,ATF4,,-1.446
+Upstream,STAT5A/B,,-1.441
+Upstream,F2,,-1.434
+Upstream,HSPD1,,-1.434
+Upstream,Lymphotoxin,,-1.432
+Upstream,ACE2,,-1.432
+Upstream,KLF7,,-1.432
+Upstream,C5,,-1.427
+Upstream,CD86,,-1.42
+Upstream,PTGER3,,-1.414
+Upstream,MAPK9,,-1.407
+Upstream,TAC1,,-1.406
+Upstream,HMGB1,,-1.405
+Upstream,SUPT20H,,-1.4
+Upstream,KEAP1,,-1.4
+Upstream,STAT3,1.894,-1.395
+Upstream,FAS,,-1.392
+Upstream,IKK (complex),,-1.387
+Upstream,RNASE1,,-1.387
+Upstream,MAPK8,,-1.385
+Upstream,MAPKAPK2,,-1.385
+Upstream,NFKBIA,,-1.383
+Upstream,IRF9,,-1.378
+Upstream,CNTF,,-1.377
+Upstream,FN1,,-1.373
+Upstream,IL18R1,,-1.342
+Upstream,CSF1R,,-1.342
+Upstream,MAPK3,,-1.342
+Upstream,CD80,,-1.325
+Upstream,CD3 (family),,-1.312
+Upstream,TRAF3IP2,,-1.311
+Upstream,SGPL1,,-1.308
+Upstream,IFI16,,-1.301
+Upstream,IL1R,,-1.3
+Upstream,IL23A,,-1.3
+Upstream,F2RL1,,-1.28
+Upstream,PLAUR,,-1.276
+Upstream,HIF1A,,-1.275
+Upstream,TRAF2,,-1.274
+Upstream,CD40,,-1.265
+Upstream,CDKN2A,,-1.262
+Upstream,HAVCR2,,-1.256
+Upstream,C5AR1,,-1.256
+Upstream,MAP2K1,,-1.253
+Upstream,FcER1,,-1.253
+Upstream,CSF1,,-1.247
+Upstream,TASL,,-1.226
+Upstream,CSF2,,-1.219
+Upstream,ID3,,-1.213
+Upstream,ADAM17,,-1.205
+Upstream,IGF1,,-1.204
+Upstream,IFNL3,,-1.199
+Upstream,ORAI1,,-1.195
+Upstream,CD81,,-1.193
+Upstream,BIRC3,,-1.192
+Upstream,OLR1,,-1.165
+Upstream,REL,,-1.165
+Upstream,FOSL1,,-1.165
+Upstream,IL24,,-1.165
+Upstream,AKT,,-1.16
+Upstream,NCOA2,,-1.158
+Upstream,CFB,,-1.154
+Upstream,PTPN22,,-1.154
+Upstream,TNFRSF18,,-1.154
+Upstream,CDKN1B,,-1.15
+Upstream,KLRK1,,-1.15
+Upstream,SRC (family),,-1.136
+Upstream,CD200R1,,-1.134
+Upstream,PDGF (complex),,-1.131
+Upstream,PI3,,-1.131
+Upstream,UNC93B1,,-1.129
+Upstream,RETN,,-1.124
+Upstream,MAP2K1/2,,-1.114
+Upstream,GLI1,,-1.114
+Upstream,SLC29A1,,-1.109
+Upstream,SELP,,-1.109
+Upstream,SRC,,-1.109
+Upstream,TLR2,,-1.103
+Upstream,LTA,,-1.103
+Upstream,IL7,,-1.103
+Upstream,PHB1,,-1.095
+Upstream,SOCS2,,-1.091
+Upstream,KLK5,,-1.091
+Upstream,PDGF-BB,,-1.09
+Upstream,FSH,,-1.076
+Upstream,FOS,,-1.075
+Upstream,USP22,,-1.069
+Upstream,RBP4,,-1.068
+Upstream,CLEC4G,,-1.067
+Upstream,TIFA,,-1.067
+Upstream,TRPV4,,-1.067
+Upstream,PDLIM2,,-1.067
+Upstream,NOTCH,,-1.067
+Upstream,Fibrinogen,,-1.067
+Upstream,IL5,,-1.065
+Upstream,PLAT,,-1.053
+Upstream,VEGFA,,-1.053
+Upstream,TRAF6,,-1.047
+Upstream,DDIT3,,-1.047
+Upstream,EIF2AK2,,-1.032
+Upstream,PI3K (family),,-1.018
+Upstream,PIK3CG,,-1.016
+Upstream,SMAD3,,-1.006
+Upstream,CXCL12,,-1.005
+Upstream,Hbb-b1,,-1
+Upstream,MSC,,-1
+Upstream,CCL4,,-1
+Upstream,NFAT (complex),,-1
+Upstream,TNFRSF8,,-1
+Upstream,SASH1,,-1
+Upstream,NF2,,-1
+Upstream,PPIF,,-1
+Upstream,UBR5,,-1
+Upstream,AQP3,,-1
+Upstream,ADORA2B,,-1
+Upstream,TBX21,,-0.996
+Upstream,EZH2,,-0.995
+Upstream,TCR (complex),,-0.994
+Upstream,NLRP3,,-0.972
+Upstream,IL36A,,-0.97
+Upstream,TNFSF11,,-0.967
+Upstream,PLG,,-0.966
+Upstream,PRKCD,,-0.966
+Upstream,TNFSF14,,-0.958
+Upstream,IL2RA,,-0.958
+Upstream,DPP4,,-0.957
+Upstream,RIPK3,,-0.957
+Upstream,TICAM2,,-0.956
+Upstream,FHL2,,-0.95
+Upstream,NOD2,,-0.948
+Upstream,CD28,,-0.941
+Upstream,LEP,,-0.938
+Upstream,NFATC2,,-0.937
+Upstream,IL9,,-0.925
+Upstream,NFAT (family),,-0.923
+Upstream,RAC1,,-0.923
+Upstream,CXCL8,,-0.922
+Upstream,TREM2,,-0.917
+Upstream,MTOR,,-0.914
+Upstream,LEPR,,-0.896
+Upstream,CD5,,-0.896
+Upstream,ESRRA,,-0.895
+Upstream,EP300,,-0.895
+Upstream,NR1I2,,-0.889
+Upstream,PTGES,,-0.882
+Upstream,TLR8,,-0.874
+Upstream,PTH,,-0.862
+Upstream,Cdkn2a,,-0.857
+Upstream,AIMP1,,-0.854
+Upstream,EPO,,-0.852
+Upstream,MOG,,-0.85
+Upstream,USP7,,-0.849
+Upstream,Saa1/Saa2,,-0.849
+Upstream,GSN,,-0.849
+Upstream,JUND,,-0.849
+Upstream,CTSB,,-0.849
+Upstream,TYROBP,,-0.847
+Upstream,ERBB2,,-0.838
+Upstream,MDK,,-0.838
+Upstream,BCL3,,-0.834
+Upstream,FYB1,,-0.832
+Upstream,NOTCH2,,-0.832
+Upstream,PIK3R1,,-0.831
+Upstream,YAP1,,-0.822
+Upstream,INS,,-0.821
+Upstream,RNASE2,,-0.82
+Upstream,BCL11B,,-0.816
+Upstream,FYN,,-0.816
+Upstream,Samsn1,,-0.816
+Upstream,EGLN1,,-0.816
+Upstream,SMPD1,,-0.816
+Upstream,Fcgr3,,-0.807
+Upstream,STAT5A,,-0.807
+Upstream,IL6R,,-0.8
+Upstream,TNFSF9,,-0.793
+Upstream,PRKAA1,,-0.792
+Upstream,F2R,,-0.792
+Upstream,FLT3LG,,-0.792
+Upstream,CCL2,,-0.788
+Upstream,XRCC6,,-0.784
+Upstream,SPHK1,,-0.767
+Upstream,AKT1,,-0.766
+Upstream,JNK,,-0.766
+Upstream,collagenase,,-0.762
+Upstream,CXCR4,,-0.762
+Upstream,TNFRSF11B,,-0.762
+Upstream,EIF4E,,-0.756
+Upstream,LGALS3,,-0.754
+Upstream,AXL,,-0.753
+Upstream,IL13,,-0.75
+Upstream,SERPINA1,,-0.749
+Upstream,RAS,,-0.747
+Upstream,mir-132 (includes others),,-0.747
+Upstream,BCAP31,,-0.744
+Upstream,mir-21 (includes others),,-0.737
+Upstream,POU5F1,,-0.728
+Upstream,EGR1,,-0.725
+Upstream,PNPLA2,,-0.723
+Upstream,PTGER2,,-0.721
+Upstream,GAB2,,-0.721
+Upstream,IKBKE,,-0.715
+Upstream,MAP3K8,,-0.705
+Upstream,mir-130 (includes others),,-0.703
+Upstream,GAS6,,-0.698
+Upstream,DDOST,,-0.692
+Upstream,CCL3,,-0.689
+Upstream,AGER,,-0.68
+Upstream,PPARA,,-0.667
+Upstream,FGF2,,-0.664
+Upstream,DDIT4,,-0.662
+Upstream,MIF,,-0.657
+Upstream,PADI4,,-0.655
+Upstream,ITGB1,,-0.655
+Upstream,OSCAR,,-0.655
+Upstream,TNC,,-0.651
+Upstream,MEK,,-0.644
+Upstream,VEGF,,-0.628
+Upstream,CLEC4E,,-0.625
+Upstream,CCDC134,,-0.611
+Upstream,BCR (complex),,-0.61
+Upstream,ERK1/2,,-0.609
+Upstream,PIK3CD,,-0.602
+Upstream,SMAD7,,-0.595
+Upstream,CD69,,-0.594
+Upstream,FCGR2A,,-0.591
+Upstream,CRP,,-0.59
+Upstream,TEK,,-0.586
+Upstream,STAT6,,-0.584
+Upstream,IL17A dimer,,-0.579
+Upstream,Alox15,,-0.577
+Upstream,CCR6,,-0.577
+Upstream,IL17R,,-0.577
+Upstream,FOXO1,,-0.569
+Upstream,PHB2,,-0.555
+Upstream,TLR5,,-0.555
+Upstream,USP47,,-0.555
+Upstream,IL3,,-0.538
+Upstream,growth hormone,,-0.534
+Upstream,RIPK1,,-0.53
+Upstream,CD3 (complex),,-0.53
+Upstream,IL36G,,-0.522
+Upstream,NFATC1,,-0.522
+Upstream,S1PR1,,-0.519
+Upstream,TARDBP,,-0.506
+Upstream,NR3C2,,-0.505
+Upstream,RXRA,,-0.496
+Upstream,BRD4,,-0.493
+Upstream,DEK,,-0.492
+Upstream,SYK,,-0.49
+Upstream,CFLAR,,-0.489
+Upstream,CCL11,,-0.489
+Upstream,BICD2,,-0.484
+Upstream,SPP1,,-0.482
+Upstream,RBPJ,,-0.478
+Upstream,CEBPB,,-0.472
+Upstream,FTO,,-0.468
+Upstream,SERPINB3,,-0.465
+Upstream,PPP2CA,,-0.457
+Upstream,KITLG,,-0.455
+Upstream,RXRB,,-0.447
+Upstream,TLR7/8,,-0.447
+Upstream,ITPR2,,-0.447
+Upstream,TRIM28,,-0.443
+Upstream,LRP6,,-0.437
+Upstream,LRP5,,-0.437
+Upstream,SATB1,,-0.436
+Upstream,TRAF3,,-0.433
+Upstream,CD200,,-0.426
+Upstream,PIEZO1,,-0.418
+Upstream,GJA1,,-0.415
+Upstream,NRG1,,-0.412
+Upstream,TNFRSF9,,-0.398
+Upstream,HRAS,,-0.394
+Upstream,CD274,,-0.392
+Upstream,NFKBIB,,-0.391
+Upstream,TIMP1,,-0.391
+Upstream,CARD9,,-0.389
+Upstream,IL27RA,,-0.385
+Upstream,CEBPD,,-0.381
+Upstream,ANXA1,,-0.378
+Upstream,MUC16,,-0.378
+Upstream,IFNGR1,,-0.374
+Upstream,IL1RL2,,-0.372
+Upstream,LAIR1,,-0.371
+Upstream,CTNNB1,,-0.369
+Upstream,TNFSF10,,-0.364
+Upstream,CD3E,,-0.359
+Upstream,GH1,,-0.358
+Upstream,mir-34 (includes others),,-0.356
+Upstream,IRF8,,-0.346
+Upstream,IL12RB2,,-0.34
+Upstream,RBX1,,-0.333
+Upstream,VCAN,,-0.32
+Upstream,Fcgr2b,,-0.314
+Upstream,CYP2E1,,-0.314
+Upstream,Collagen type II,,-0.314
+Upstream,PPARD,,-0.311
+Upstream,MAPT,,-0.307
+Upstream,PARP1,,-0.298
+Upstream,LCK,,-0.296
+Upstream,WT1,,-0.284
+Upstream,MDM2,,-0.277
+Upstream,SREBF1,,-0.277
+Upstream,CAMK4,,-0.277
+Upstream,ERK,,-0.276
+Upstream,PIM1,,-0.271
+Upstream,SMAD4,,-0.27
+Upstream,IL17C,,-0.269
+Upstream,IL32,,-0.267
+Upstream,ADM2,,-0.254
+Upstream,ACOD1,,-0.254
+Upstream,TREM1,,-0.247
+Upstream,Calcineurin (complex),,-0.247
+Upstream,FOXP3,,-0.244
+Upstream,PROC,,-0.243
+Upstream,ADCYAP1,,-0.242
+Upstream,BRCA1,,-0.241
+Upstream,ARID1A,,-0.236
+Upstream,CTLA4,,-0.235
+Upstream,LTBR,,-0.218
+Upstream,AREG,,-0.218
+Upstream,CHRNA7,,-0.218
+Upstream,KIT,,-0.218
+Upstream,OGA,,-0.213
+Upstream,insulin,,-0.21
+Upstream,ALOX5,,-0.208
+Upstream,NGF,,-0.202
+Upstream,HSPA5,,-0.199
+Upstream,WNT5A,,-0.181
+Upstream,CD44,,-0.177
+Upstream,POMC,,-0.16
+Upstream,GAST,,-0.156
+Upstream,IKB,,-0.152
+Upstream,SSTR2,,-0.152
+Upstream,NGF,,-0.152
+Upstream,JAG2,,-0.152
+Upstream,RXR/VDR/vitamin D3,,-0.152
+Upstream,LIPE,,-0.152
+Upstream,miR-291a-3p (and other miRNAs w/seed AAGUGCU),,-0.144
+Upstream,RFX1,,-0.14
+Upstream,QKI,,-0.128
+Upstream,NCOA1,,-0.127
+Upstream,STAT5B,,-0.127
+Upstream,EPAS1,,-0.125
+Upstream,TRIM8,,-0.117
+Upstream,SIRT1,,-0.116
+Upstream,VIP,,-0.107
+Upstream,PRKD1,,-0.106
+Upstream,EOMES,,-0.106
+Upstream,SPARC,,-0.106
+Upstream,Cxcl1,,-0.106
+Upstream,KLF4,,-0.105
+Upstream,C3,,-0.099
+Upstream,IRAK4,,-0.096
+Upstream,NKX2-3,,-0.095
+Upstream,ETV7,,-0.095
+Upstream,PRKCQ,,-0.092
+Upstream,mir-1 (includes others),,-0.092
+Upstream,FABP4,,-0.085
+Upstream,NOTCH1,,-0.069
+Upstream,PRKAA,,-0.068
+Upstream,SERPINE1,,-0.068
+Upstream,LGALS9,,-0.066
+Upstream,TRIM21,,-0.064
+Upstream,mir-182,,-0.063
+Upstream,OTUD1,,-0.06
+Upstream,BCL2,,-0.057
+Upstream,NR5A2,,-0.055
+Upstream,ZC3H12A,,-0.053
+Upstream,CLEC7A,,-0.046
+Upstream,GSK3B,,-0.043
+Upstream,CD2,,-0.043
+Upstream,MERTK,,-0.042
+Upstream,ZBTB16,,-0.04
+Upstream,FCER2,,-0.038
+Upstream,ICOS,,-0.036
+Upstream,FCER1G,,-0.036
+Upstream,ETS1,,-0.034
+Upstream,DHX9,,-0.031
+Upstream,CREB1,,-0.027
+Upstream,TNFSF15,,-0.008
+Upstream,PRKCE,,-0.006
+Upstream,TLN1,,0
+Upstream,CASR,,0
+Upstream,ATG5,,0
+Upstream,CXCL5,,0
+Upstream,IGF2BP1,,0
+Upstream,NRP1,,0
+Upstream,HBEGF,,0
+Upstream,FOXL2,,0
+Upstream,mir-8 (includes others),,0
+Upstream,GHRL,,0
+Upstream,HMG20A,,0
+Upstream,ARRB1,,0
+Upstream,AIRE,,0
+Upstream,IL1RL1,,0.003
+Upstream,miR-124-3p (and other miRNAs w/seed AAGGCAC),,0.019
+Upstream,MMP9,,0.02
+Upstream,CDKN1A,,0.022
+Upstream,TIRAP,,0.028
+Upstream,INHBA,,0.049
+Upstream,NR4A1,,0.055
+Upstream,AMPK,,0.056
+Upstream,NFAT5,,0.057
+Upstream,SFTPA1,,0.057
+Upstream,RORA,,0.058
+Upstream,HGF,,0.063
+Upstream,VTN,,0.063
+Upstream,Serpina3n (includes others),,0.063
+Upstream,F7,,0.064
+Upstream,Casp4,,0.068
+Upstream,MAFB,,0.068
+Upstream,BCL2L1,,0.068
+Upstream,BMP10,,0.074
+Upstream,NR1H4,,0.082
+Upstream,GFI1,,0.089
+Upstream,BCL6,,0.105
+Upstream,WWTR1,,0.106
+Upstream,TGFA,,0.115
+Upstream,WTAP,,0.117
+Upstream,IRF2,,0.12
+Upstream,TNFRSF1B,,0.12
+Upstream,MAPK,,0.124
+Upstream,TSC22D3,,0.127
+Upstream,INSR,,0.128
+Upstream,estrogen receptor,,0.128
+Upstream,NFE2L2,,0.129
+Upstream,ITGB2,,0.13
+Upstream,RHOA,,0.132
+Upstream,LCN2,,0.133
+Upstream,CAV1,,0.144
+Upstream,RORC,,0.152
+Upstream,BAX,,0.152
+Upstream,mir-223,,0.152
+Upstream,MMP1,,0.152
+Upstream,NPC2,,0.152
+Upstream,ARNT,,0.152
+Upstream,CREM,,0.157
+Upstream,TRIM13,,0.157
+Upstream,FASLG,,0.164
+Upstream,SREBF2,,0.174
+Upstream,HDAC,,0.18
+Upstream,SNCA,,0.182
+Upstream,IgG,,0.185
+Upstream,CYP19A1,,0.187
+Upstream,MYBL2,,0.192
+Upstream,JAK3,,0.198
+Upstream,TRIM26,,0.2
+Upstream,ATP6AP2,,0.2
+Upstream,PDE4,,0.204
+Upstream,ID2,,0.213
+Upstream,IPMK,,0.218
+Upstream,Pycard,,0.218
+Upstream,PSEN1,,0.218
+Upstream,MYB,,0.22
+Upstream,IL11,,0.223
+Upstream,IRF4,,0.227
+Upstream,GIP,,0.23
+Upstream,HSP70,,0.237
+Upstream,LGALS1,,0.243
+Upstream,ZC3HAV1,,0.246
+Upstream,Casp1,,0.246
+Upstream,ITGAV,,0.254
+Upstream,ZMPSTE24,,0.254
+Upstream,IL17F,,0.256
+Upstream,ICAM1,,0.262
+Upstream,miR-17-5p (and other miRNAs w/seed AAAGUGC),,0.27
+Upstream,CRH,,0.277
+Upstream,TSC2,,0.277
+Upstream,SHH,,0.277
+Upstream,26S proteasome,,0.277
+Upstream,KLF5,,0.277
+Upstream,CDX1,,0.277
+Upstream,CH25H,,0.277
+Upstream,PTPN6,,0.289
+Upstream,miR-125b-5p (and other miRNAs w/seed CCCUGAG),,0.298
+Upstream,CALCA,,0.3
+Upstream,TNFRSF1A,,0.311
+Upstream,KLF15,,0.312
+Upstream,mir-154 (includes others),,0.317
+Upstream,SQSTM1,,0.331
+Upstream,LDB1,,0.333
+Upstream,LMO2,,0.333
+Upstream,PPARG,,0.346
+Upstream,PDE4B,,0.36
+Upstream,ANGPT1,,0.371
+Upstream,KRAS,,0.371
+Upstream,UCP2,,0.374
+Upstream,NR0B2,,0.375
+Upstream,JAK2,,0.378
+Upstream,PIWIL4,,0.378
+Upstream,mir-214 (includes others),,0.391
+Upstream,GLI2,,0.394
+Upstream,CCN1,,0.399
+Upstream,THPO,,0.404
+Upstream,MRTFA,,0.418
+Upstream,HAVCR1,,0.431
+Upstream,ERN1,,0.44
+Upstream,FGF1,,0.447
+Upstream,GPBAR1,,0.456
+Upstream,HNRNPU,,0.463
+Upstream,GPER1,,0.478
+Upstream,FGF21,,0.482
+Upstream,VDR,,0.496
+Upstream,IL2RG,,0.52
+Upstream,Chrna7,,0.528
+Upstream,HDL,,0.533
+Upstream,SP1,,0.539
+Upstream,NR1H2,,0.547
+Upstream,CREBBP,,0.548
+Upstream,EGR3,,0.555
+Upstream,ISG15,,0.555
+Upstream,PTGS1,,0.555
+Upstream,ESR1,,0.567
+Upstream,NR1H,,0.571
+Upstream,activin (family),,0.573
+Upstream,FBXW7,,0.577
+Upstream,C3AR1,,0.577
+Upstream,NCF1,,0.578
+Upstream,CLU,,0.58
+Upstream,AR,,0.598
+Upstream,TRIM38,,0.598
+Upstream,EIF4EBP1,,0.616
+Upstream,EIF4EBP2,,0.616
+Upstream,FOXO3,,0.624
+Upstream,DICER1,,0.627
+Upstream,PRKAA2,,0.64
+Upstream,DRD2,,0.64
+Upstream,Ifitm3,,0.64
+Upstream,NEIL2,,0.64
+Upstream,CISH,,0.64
+Upstream,ESR2,,0.644
+Upstream,RPSA,0.068,0.649
+Upstream,SAMHD1,,0.651
+Upstream,FIRRE,,0.651
+Upstream,IRAK3,,0.652
+Upstream,SENP1,,0.655
+Upstream,miR-182-5p (and other miRNAs w/seed UUGGCAA),,0.655
+Upstream,TCF4,,0.655
+Upstream,GHR,,0.655
+Upstream,BSG,,0.655
+Upstream,PSMB11,,0.655
+Upstream,SIRPA,,0.666
+Upstream,ORM1,,0.686
+Upstream,RELB,,0.689
+Upstream,Il22/Il22b,,0.689
+Upstream,CD4,,0.7
+Upstream,APOE,,0.703
+Upstream,ZEB2,,0.707
+Upstream,ELAVL1,,0.707
+Upstream,PRDX1,,0.714
+Upstream,NOS3,,0.727
+Upstream,GCG,,0.728
+Upstream,ACKR2,,0.728
+Upstream,NLRP12,,0.728
+Upstream,CASP3,,0.728
+Upstream,NR1H3,,0.736
+Upstream,KLF2,,0.743
+Upstream,IL10,0.398,0.746
+Upstream,PROCR,,0.747
+Upstream,ITK,,0.751
+Upstream,GRN,,0.756
+Upstream,PRMT1,,0.761
+Upstream,TRAF1,,0.762
+Upstream,Pla2g2d,,0.765
+Upstream,DNMT3A,,0.765
+Upstream,DUSP10,,0.771
+Upstream,SCARB1,,0.778
+Upstream,PRF1,,0.784
+Upstream,CDH1,,0.784
+Upstream,XBP1,,0.785
+Upstream,PRNP,,0.785
+Upstream,PTX3,,0.789
+Upstream,PTPN11,,0.806
+Upstream,CORT,,0.817
+Upstream,GAPDH,,0.822
+Upstream,CCR2,,0.837
+Upstream,LEF1,,0.841
+Upstream,MAS1,,0.842
+Upstream,PGR,,0.845
+Upstream,KDM6A,,0.849
+Upstream,SERPINE2,,0.849
+Upstream,GPX1,,0.856
+Upstream,ADAR,,0.858
+Upstream,TRIM24,,0.868
+Upstream,TXN,,0.882
+Upstream,ITGB3,,0.883
+Upstream,NPM1,,0.896
+Upstream,SERPINB7,,0.896
+Upstream,ID1,,0.896
+Upstream,mir-506 (includes others),,0.9
+Upstream,TCF3,,0.905
+Upstream,ZBTB20,,0.916
+Upstream,PTEN,,0.926
+Upstream,BACH2,,0.928
+Upstream,SIRT6,,0.954
+Upstream,GPR132,,0.958
+Upstream,THRB,,0.966
+Upstream,TGF beta,,0.969
+Upstream,NCOR1,,0.97
+Upstream,PDCD1,,0.979
+Upstream,DNASE2,,0.985
+Upstream,YY1,,0.988
+Upstream,PELI1,,0.996
+Upstream,ADM,,0.998
+Upstream,SOX4,,1
+Upstream,IL6ST,,1
+Upstream,GRK2,,1
+Upstream,HSP90 (family),,1
+Upstream,Lilrb4a/Lilrb4b,,1
+Upstream,ZRANB1,,1
+Upstream,Ear1/Ear2,,1
+Upstream,LATS2,,1
+Upstream,MEF2C,,1
+Upstream,ATG7,,1.015
+Upstream,ABCG1,,1.033
+Upstream,RTCB,,1.035
+Upstream,CDX2,,1.064
+Upstream,PRDM16,,1.067
+Upstream,OPA1,,1.067
+Upstream,miR-511-5p (miRNAs w/seed UGUCUUU),,1.067
+Upstream,KCNIP3,,1.067
+Upstream,RNF31,,1.091
+Upstream,SPRY2,,1.091
+Upstream,HOXA10,,1.091
+Upstream,XDH,,1.091
+Upstream,ZFPM1,,1.091
+Upstream,IKZF2,,1.091
+Upstream,LILRB4,,1.091
+Upstream,CUX1,,1.103
+Upstream,mir-155,,1.112
+Upstream,ADIPOQ,,1.113
+Upstream,BMP7,,1.114
+Upstream,miR-155-5p (miRNAs w/seed UAAUGCU),,1.12
+Upstream,HRH3,,1.131
+Upstream,KL,,1.131
+Upstream,mir-30 (includes others),,1.133
+Upstream,TCF12,,1.134
+Upstream,COP1,,1.153
+Upstream,caspase,,1.154
+Upstream,CYLD,,1.165
+Upstream,BCL2L11,,1.165
+Upstream,BDNF,,1.188
+Upstream,CYP2J2,,1.216
+Upstream,IGF1R,,1.217
+Upstream,NLRX1,,1.226
+Upstream,PKM,,1.231
+Upstream,GPS2,,1.254
+Upstream,IL10RA,,1.265
+Upstream,HIVEP1,,1.3
+Upstream,WNT3A,,1.303
+Upstream,TET2,,1.32
+Upstream,TTC39A-AS1,,1.323
+Upstream,ADORA2A,,1.325
+Upstream,HSF1,,1.327
+Upstream,MMP14,,1.342
+Upstream,INSIG1,,1.342
+Upstream,MRTFB,,1.342
+Upstream,LYN,,1.342
+Upstream,E2F1,,1.37
+Upstream,NR3C1,,1.371
+Upstream,PPARGC1A,,1.373
+Upstream,TGFB2,,1.387
+Upstream,GSTO1,,1.387
+Upstream,KMT2D,,1.387
+Upstream,CITED2,,1.409
+Upstream,GPR15LG,,1.414
+Upstream,TCF7,,1.43
+Upstream,STIM1,,1.432
+Upstream,EGFR,,1.449
+Upstream,IL37,,1.456
+Upstream,HOTAIR,,1.468
+Upstream,IL7R,,1.485
+Upstream,mir-146 (includes others),,1.5
+Upstream,SIGIRR,,1.502
+Upstream,TAFAZZIN,,1.534
+Upstream,Mir122a/b,,1.539
+Upstream,LPL,,1.549
+Upstream,APOA1,,1.55
+Upstream,HMOX1,,1.578
+Upstream,GATA3,,1.592
+Upstream,PTGER4,,1.628
+Upstream,UCP1,,1.633
+Upstream,GATA2,,1.639
+Upstream,RUNX1,,1.65
+Upstream,RPTOR,,1.651
+Upstream,IRF2BP2,,1.664
+Upstream,NFKB2,,1.671
+Upstream,Scd1,,1.671
+Upstream,TGFBR2,,1.69
+Upstream,mir-142 (includes others),,1.701
+Upstream,AKT2,,1.702
+Upstream,PKC,,1.71
+Upstream,TP73,,1.714
+Upstream,CBFB,,1.715
+Upstream,NPC1,,1.732
+Upstream,TOLLIP,,1.732
+Upstream,TNFAIP3,,1.761
+Upstream,STK11,,1.783
+Upstream,DUSP1,,1.833
+Upstream,CASP8,,1.838
+Upstream,PRDM1,,1.84
+Upstream,GATA1,,1.87
+Upstream,TGFBR1,,1.89
+Upstream,ZFP36,,1.9
+Upstream,mir-29 (includes others),,1.929
+Upstream,ZC3H12C,,1.932
+Upstream,NCR2,,1.951
+Upstream,MYC,,1.958
+Upstream,RNF216,,1.961
+Upstream,miR-145-5p (and other miRNAs w/seed UCCAGUU),,1.969
+Upstream,FOXA1,,1.969
+Upstream,IgA,,1.976
+Upstream,SCGB1A1,,1.98
+Upstream,ADAMTS12,,1.98
+Upstream,mir-150 (includes others),,1.982
+Upstream,CXCR2,,1.982
+Upstream,LINC00624,,1.994
+Upstream,SAFB,,2
+Upstream,SKIC2,,2
+Upstream,IL17RD,,2
+Upstream,NGLY1,,2
+Upstream,CTCF,,2
+Upstream,NQO1,,2
+Upstream,LIPA,,2
+Upstream,HIBCH,,2
+Upstream,IL1RN,,2.019
+Upstream,miR-146a-5p (and other miRNAs w/seed GAGAACU),,2.035
+Upstream,INPP5D,,2.074
+Upstream,RC3H1,,2.121
+Upstream,CUL5,,2.121
+Upstream,ETV6,,2.137
+Upstream,DDX5,,2.153
+Upstream,ILF3,,2.156
+Upstream,Irgm1,,2.164
+Upstream,PELI2,,2.201
+Upstream,TAB1,,2.219
+Upstream,PTPN1,,2.219
+Upstream,PCK1,,2.223
+Upstream,ZNF750,,2.401
+Upstream,alpha catenin,,2.402
+Upstream,ETV5,,2.433
+Upstream,USP8,,2.433
+Upstream,F3,,2.476
+Upstream,PLCG2,,2.511
+Upstream,BANF1,,2.576
+Upstream,SRF,,2.588
+Upstream,IKZF1,,2.607
+Upstream,UBAP1,,2.63
+Upstream,IMMT,,2.63
+Upstream,STAG2,,2.635
+Upstream,IRGM,,2.637
+Upstream,METTL3,,2.637
+Upstream,USP18,,2.699
+Upstream,SP110,,2.714
+Upstream,ETV3,,2.828
+Upstream,SOCS3,,2.944
+Upstream,SOCS1,,3.267
+Upstream,CD276,,3.372
+Upstream,RNASEH2B,,3.426
+Upstream,MAPK1,,3.466
+Upstream,TREX1,,3.495
+Functional,Influx of leukocytes,,-2.839
+Functional,Lung injury,,-2.727
+Functional,Anti-inflammatory response,,-2.611
+Functional,Cell movement of dendritic cells,,-2.546
+Functional,Damage of lung,,-2.543
+Functional,Chemotaxis of granulocytes,,-2.529
+Functional,Influx of myeloid cells,,-2.49
+Functional,Innate immune response,,-2.484
+Functional,Influx of phagocytes,,-2.467
+Functional,Necrosis of epithelial tissue,,-2.385
+Functional,Influx of neutrophils,,-2.343
+Functional,Apoptosis of antigen presenting cells,,-2.32
+Functional,Chemotaxis of neutrophils,,-2.285
+Functional,Skin lesion,,-2.278
+Functional,Cell death of epithelial cells,,-2.248
+Functional,Activation of granulocytes,,-2.236
+Functional,Anti-inflammatory response of cells,,-2.219
+Functional,Inhibition of cells,,-2.207
+Functional,Attraction of antigen presenting cells,,-2.18
+Functional,Polarization of cells,,-2.126
+Functional,Polarization of myeloid cells,,-2.121
+Functional,Apoptosis of endothelial cells,,-2.108
+Functional,Activation of myeloid cells,,-2.105
+Functional,Antimicrobial response,,-2.091
+Functional,Apoptosis of dendritic cells,,-2.085
+Functional,Polarization of antigen presenting cells,,-2.071
+Functional,Phagocytosis,,-2.063
+Functional,Chemoattraction of phagocytes,,-2.048
+Functional,Polarization of phagocytes,,-2.046
+Functional,Recruitment of monocytes,,-2.036
+Functional,Phagocytosis of neutrophils,,-2.015
+Functional,Regulation of leukocytes,,-2
+Functional,Relapsing-remitting multiple sclerosis,,-2
+Functional,Abnormal morphology of leukocytes,,-1.998
+Functional,Cell movement of neutrophils,1.04,-1.989
+Functional,Polarization of blood cells,,-1.984
+Functional,Attraction of phagocytes,,-1.979
+Functional,Cell movement of granulocytes,,-1.974
+Functional,Phagocytosis of phagocytes,,-1.972
+Functional,Chemotaxis of phagocytes,,-1.968
+Functional,Antiviral response,,-1.919
+Functional,Immune response of cells,,-1.908
+Functional,Response of neutrophils,,-1.903
+Functional,Necrosis,-0.466,-1.875
+Functional,Engulfment of cells,,-1.87
+Functional,Response of myeloid leukocytes,,-1.851
+Functional,Apoptosis of cancer cells,,-1.844
+Functional,Immune response of phagocytes,,-1.836
+Functional,Polarization of leukocytes,,-1.829
+Functional,Recruitment of mononuclear leukocytes,,-1.825
+Functional,Phagocytosis of cells,,-1.811
+Functional,Phagocytosis of myeloid cells,,-1.809
+Functional,Cell movement of antigen presenting cells,,-1.803
+Functional,Infection by Bacilli,,-1.793
+Functional,Inflammatory response,0.89,-1.777
+Functional,Phagocytosis of leukocytes,,-1.767
+Functional,Chemotaxis of leukocytes,,-1.767
+Functional,Chemotaxis of antigen presenting cells,,-1.759
+Functional,Fragmentation of DNA,,-1.758
+Functional,Activation of macrophages,,-1.737
+Functional,Response of phagocytes,,-1.736
+Functional,Production of reactive oxygen species,,-1.726
+Functional,Chemotaxis of myeloid cells,,-1.716
+Functional,Cell death of B lymphocytes,,-1.715
+Functional,Chemotaxis of lymphocytes,,-1.709
+Functional,Chemoattraction of myeloid cells,,-1.701
+Functional,Immune response of neutrophils,,-1.697
+Functional,Phagocytosis of antigen presenting cells,,-1.695
+Functional,Cell death of immune cells,0.734,-1.691
+Functional,Apoptosis,-0.041,-1.69
+Functional,Activation of antigen presenting cells,,-1.69
+Functional,Production of superoxide,,-1.687
+Functional,Activation of phagocytes,,-1.675
+Functional,Cytostasis,,-1.671
+Functional,Chemotaxis of dendritic cells,,-1.668
+Functional,Damage of vascular system,,-1.662
+Functional,Response of endothelial cells,,-1.65
+Functional,Airway hyperresponsiveness,,-1.645
+Functional,Attraction of leukocytes,,-1.643
+Functional,Quantity of neutrophils,-0.392,-1.639
+Functional,Endocytosis by eukaryotic cells,,-1.636
+Functional,Skin tumor,,-1.636
+Functional,Hypoplasia of lymph node,,-1.633
+Functional,Abnormality of left ventricle,,-1.624
+Functional,Left ventricular heart disease,,-1.624
+Functional,Proinflammatory response,,-1.608
+Functional,Cell death of skin,,-1.601
+Functional,Activation of neutrophils,,-1.595
+Functional,Cell death of myeloid cells,,-1.582
+Functional,Homing of leukocytes,,-1.579
+Functional,Chemotaxis,,-1.574
+Functional,Response of myeloid cells,,-1.569
+Functional,Chemotaxis of macrophages,,-1.565
+Functional,Activation of mast cells,,-1.553
+Functional,Chemotaxis of mononuclear leukocytes,,-1.53
+Functional,Cell death of monocytes,,-1.521
+Functional,Recruitment of macrophages,,-1.515
+Functional,Killing of bacteria,,-1.511
+Functional,Delayed hypersensitive reaction,,-1.508
+Functional,Migration of antigen presenting cells,,-1.506
+Functional,Chemotaxis of monocytes,,-1.495
+Functional,Immune response of myeloid cells,,-1.491
+Functional,Apoptosis of epithelial cells,,-1.476
+Functional,Endocytosis,,-1.467
+Functional,Apoptosis of leukocytes,,-1.459
+Functional,Phagocytosis by macrophages,,-1.437
+Functional,Abnormal morphology of mononuclear leukocytes,,-1.432
+Functional,Abnormal morphology of lymphocytes,,-1.432
+Functional,Synthesis of reactive oxygen species,,-1.426
+Functional,Apoptosis of monocytes,,-1.415
+Functional,Chemotaxis of T lymphocytes,,-1.413
+Functional,Homing of cells,,-1.412
+Functional,Migration of tumor cell lines,,-1.411
+Functional,Migration of dendritic cells,,-1.408
+Functional,Internalization of cells,,-1.397
+Functional,Benign lesion,,-1.393
+Functional,Regulation of blood cells,,-1.387
+Functional,Migration of macrophages,,-1.386
+Functional,Homing of lymphocytes,,-1.386
+Functional,Skin cancer,,-1.381
+Functional,Chemotaxis of lymphatic system cells,,-1.364
+Functional,Chemoattraction of granulocytes,,-1.355
+Functional,Recruitment of antigen presenting cells,,-1.352
+Functional,Mediastinal lesion,,-1.348
+Functional,Mobilization of cells,,-1.348
+Functional,Apoptosis of tumor cells,,-1.343
+Functional,Inflammatory response of endothelial cells,,-1.342
+Functional,Bleeding,,-1.339
+Functional,Chemotaxis of peripheral blood leukocytes,,-1.331
+Functional,Cell death of liver cells,,-1.324
+Functional,Mobilization of Ca2+,,-1.314
+Functional,Binding of mononuclear leukocytes,,-1.31
+Functional,Cytotoxicity,,-1.305
+Functional,Cell death of lymphatic system cells,,-1.302
+Functional,Cell death of dendritic cells,,-1.292
+Functional,Cell movement of macrophages,,-1.292
+Functional,Neovascularization,,-1.283
+Functional,Apoptosis of lymphatic system cells,,-1.281
+Functional,Mobilization of blood cells,,-1.275
+Functional,Suppression of cells,,-1.265
+Functional,Homing of mononuclear leukocytes,,-1.257
+Functional,Cytotoxicity of tumor cell lines,,-1.23
+Functional,Activation of innate lymphoid cells,,-1.213
+Functional,Cytotoxicity of cells,,-1.213
+Functional,Cell death of leukemia cell lines,,-1.213
+Functional,Recruitment of myeloid cells,,-1.201
+Functional,Cell movement of phagocytes,0.761,-1.198
+Functional,Cell death of mononuclear leukocytes,,-1.197
+Functional,Activation of dendritic cells,,-1.191
+Functional,Quantity of protein in blood,,-1.188
+Functional,Apoptosis of B lymphocytes,,-1.188
+Functional,Apoptosis of hematopoietic progenitor cells,,-1.184
+Functional,Acute respiratory disorder,,-1.183
+Functional,Acute lung injury,,-1.183
+Functional,Hypersensitive reaction,,-1.182
+Functional,Degranulation,,-1.175
+Functional,Attraction of mononuclear leukocytes,,-1.173
+Functional,Damage of epithelial tissue,,-1.162
+Functional,Migration of neutrophils,,-1.159
+Functional,Loss of hair,,-1.154
+Functional,Disorder of hair,,-1.154
+Functional,Migration of phagocytes,,-1.153
+Functional,Cell death of lymphocytes,,-1.147
+Functional,Proliferation of memory T lymphocytes,,-1.146
+Functional,Homing of lymphatic system cells,,-1.146
+Functional,Apoptosis of HMEC cells,,-1.131
+Functional,Quantity of cytokine,,-1.116
+Functional,Cutaneous melanoma,,-1.109
+Functional,Apoptosis of mononuclear leukocytes,,-1.098
+Functional,Apoptosis of skin,,-1.076
+Functional,Activation of bone marrow-derived dendritic cells,,-1.069
+Functional,Cell movement of tumor cell lines,0.513,-1.068
+Functional,T-cell non-Hodgkin lymphoma,,-1.067
+Functional,Non-Hodgkin lymphoma,,-1.067
+Functional,Cell movement of microglia,,-1.067
+Functional,Apoptosis of lymphocytes,,-1.061
+Functional,Activation of microglia,,-1.055
+Functional,Toxicity of cells,,-1.048
+Functional,Homing of T lymphocytes,,-1.048
+Functional,Recruitment of lymphocytes,,-1.043
+Functional,Growth of kidney,,-1.04
+Functional,Attraction of lymphocytes,,-1.04
+Functional,Cell death of malignant tumor,,-1.038
+Functional,Inflammation of respiratory system component,,-1.029
+Functional,Degranulation of cells,,-1.029
+Functional,Chemoattraction of neutrophils,,-1.026
+Functional,Response of microglia,,-1.026
+Functional,Quantity of myeloid-derived suppressor cells,,-1.021
+Functional,Apoptosis of leukemia cell lines,,-1.021
+Functional,Respiratory burst,,-1.012
+Functional,Chemotaxis of neuroglia,,-1
+Functional,Suppression of blood cells,,-1
+Functional,Relapsed multiple sclerosis,,-1
+Functional,Recruitment of neutrophils,1.015,-0.858
+Functional,Accumulation of cells,1.387,-0.449
+Functional,Activation of blood cells,1.014,-0.365
+Functional,Cell proliferation of tumor cell lines,1.563,-0.324
+Functional,Accumulation of leukocytes,1.067,-0.207
+Functional,Quantity of eosinophils,-1.131,-0.205
+Functional,Cell viability,1.478,0.439
+Functional,Ovarian tumor,,1
+Functional,Breast or pancreatic cancer,,1
+Functional,Development of stem cells,,1
+Functional,Gonadal tumor,,1
+Functional,Expansion of blood cells,,1.004
+Functional,Endotoxemia,,1.008
+Functional,Toxemia,,1.008
+Functional,Leukopoiesis,,1.01
+Functional,Abnormal morphology of body cavity,,1.019
+Functional,Maturation of bone marrow-derived dendritic cells,,1.035
+Functional,Fibrosis of liver,,1.037
+Functional,Damage of neurons,,1.054
+Functional,Binding of polysaccharide,,1.054
+Functional,Organismal death,-2.244,1.056
+Functional,Cell viability of mononuclear leukocytes,,1.057
+Functional,Hepatic injury,,1.06
+Functional,Quantity of IL-6 in blood,,1.066
+Functional,Abdominal adenocarcinoma,,1.067
+Functional,Pneumonia,,1.067
+Functional,Damage of nervous system,,1.076
+Functional,Inflammatory response of leukocytes,,1.076
+Functional,Proliferation of activated T lymphocytes,,1.094
+Functional,Cell tethering or rolling of leukocytes,,1.1
+Functional,Cell-cell contact,,1.103
+Functional,Quantity of immunoglobulin,,1.118
+Functional,Quantity of osteoclasts,,1.119
+Functional,Infection by Flaviviridae,,1.131
+Functional,Quantity of bone cells,,1.14
+Functional,Growth of tumor,,1.144
+Functional,Biosynthesis of macromolecule,,1.146
+Functional,Acute disease,,1.15
+Functional,Proliferation of T lymphocytes in spleen,,1.154
+Functional,Destruction of connective tissue,,1.156
+Functional,Immune response of lymphocytes,,1.164
+Functional,Inflammation of synovial joint,,1.172
+Functional,Priming of lymphocytes,,1.178
+Functional,Cell viability of antigen presenting cells,,1.178
+Functional,Development of connective tissue cells,,1.193
+Functional,Experimentally-induced arthritis,,1.207
+Functional,Quantity of bone marrow cells,,1.219
+Functional,Inflammation of liver,,1.22
+Functional,Inflammation of central nervous system,,1.221
+Functional,Development of phagocytes,,1.227
+Functional,Cell rolling of leukocytes,,1.228
+Functional,Fatty acid metabolism,,1.229
+Functional,Ophthalmia,,1.236
+Functional,Expansion of leukocytes,,1.255
+Functional,Abdominal carcinoma,,1.261
+Functional,Colorectal tumor,,1.27
+Functional,Liver Damage,,1.274
+Functional,Production of antibody,,1.276
+Functional,Quantity of IgG,,1.281
+Functional,Fusion of cells,,1.283
+Functional,Malignant neoplasm of large intestine,,1.287
+Functional,Colorectal cancer,,1.287
+Functional,Differentiation of bone cells,,1.292
+Functional,Abnormal morphology of spleen,,1.292
+Functional,Intraabdominal organ tumor,,1.295
+Functional,Hematopoiesis of mononuclear leukocytes,,1.31
+Functional,Antibody response,,1.317
+Functional,Neutrophilia,,1.331
+Functional,Apoptosis of granulocytes,,1.332
+Functional,Diabetes mellitus,,1.342
+Functional,Size of lesion,,1.349
+Functional,Proliferation of tumor cells,,1.364
+Functional,Proliferation of bone marrow cells,,1.38
+Functional,Quantity of mononuclear leukocytes,1.369,1.383
+Functional,Hashimotos encephalitis,,1.392
+Functional,Experimental autoimmune encephalomyelitis,,1.392
+Functional,Myelitis,,1.392
+Functional,Proliferation of myeloid cells,,1.397
+Functional,Proliferation of B-lymphocyte derived cell lines,,1.408
+Functional,Quantity of CD4+ T-lymphocytes,,1.41
+Functional,Differentiation of B lymphocytes,,1.428
+Functional,Monocytopoiesis,,1.431
+Functional,Inflammation of muscle,,1.432
+Functional,Enlargement of spleen,,1.44
+Functional,Proliferation of macrophages,,1.47
+Functional,Quantity of blood cells,,1.485
+Functional,Malignant genitourinary solid tumor,,1.486
+Functional,Development of body trunk,,1.494
+Functional,Gastrointestinal tract cancer,,1.498
+Functional,Aggregation of blood cells,,1.511
+Functional,Generation of tumor,,1.513
+Functional,Carcinoma,,1.52
+Functional,Binding of protein binding site,,1.535
+Functional,Proliferation of phagocytes,,1.542
+Functional,Inflammation of body cavity,0.574,1.551
+Functional,Visceromegaly,,1.555
+Functional,Replication of RNA virus,0.098,1.578
+Functional,Dextran sodium sulfate-induced colitis,,1.58
+Functional,Sepsis,,1.585
+Functional,Growth of bacteria,,1.586
+Functional,Formation of thymocytes,,1.591
+Functional,Development of B lymphocytes,,1.608
+Functional,Quantity of lymphatic system cells,,1.612
+Functional,Quantity of lymphocytes,,1.624
+Functional,Apoptosis of neutrophils,,1.625
+Functional,Glomerulonephritis,,1.648
+Functional,Infection by RNA virus,,1.661
+Functional,Inflammatory response of antigen presenting cells,,1.664
+Functional,Extrapancreatic malignant tumor,,1.67
+Functional,Infarction,,1.676
+Functional,Quantity of leukocytes,-0.058,1.679
+Functional,Parasitic Infection,,1.681
+Functional,Quantity of cells,-1.112,1.685
+Functional,Quantity of thymocytes,,1.691
+Functional,Proliferation of lymphocytes,,1.696
+Functional,Quantity of T lymphocytes,,1.705
+Functional,Proliferation of B lymphocytes,,1.705
+Functional,Expansion of antigen presenting cells,,1.708
+Functional,Replication of virus,,1.71
+Functional,Breast or colorectal cancer,,1.711
+Functional,Differentiation of osteoclasts,,1.754
+Functional,Systemic inflammatory response syndrome and/or sepsis,,1.764
+Functional,Binding of DNA,,1.765
+Functional,Binding of NFkB binding site,,1.781
+Functional,Growth of melanoma,,1.781
+Functional,Experimental colitis,,1.8
+Functional,Growth of organism,,1.8
+Functional,Synthesis of protein,,1.802
+Functional,Digestive system cancer,,1.815
+Functional,Growth of lymphoid organ,,1.849
+Functional,Growth of malignant tumor,,1.849
+Functional,Nephritis,,1.858
+Functional,Transmigration of tumor cell lines,,1.86
+Functional,Breast or gastric cancer,,1.886
+Functional,Quantity of B lymphocytes,,1.889
+Functional,Inflammation of organ,-0.95,1.901
+Functional,Quantity of plasmacytoid dendritic cells,,1.907
+Functional,Leukocytosis,,1.908
+Functional,Proliferation of helper T lymphocytes,,1.916
+Functional,Proliferation of lymphatic system cells,,1.917
+Functional,Quantity of IgG1,,1.924
+Functional,Breast or ovarian cancer,,1.941
+Functional,Breast or gynecological cancer,,1.941
+Functional,Multiple cancers,,1.941
+Functional,Aggregation of cells,,1.953
+Functional,Abdominal cancer,,1.961
+Functional,Replication of viral replicon,,1.977
+Functional,Cell viability of macrophages,,1.982
+Functional,Growth of lymphoid tissue,,2.017
+Functional,Proliferation of immune cells,,2.054
+Functional,Proliferation of blood cells,,2.154
+Functional,Proliferation of naive T lymphocytes,,2.158
+Functional,Expansion of phagocytes,,2.176
+Functional,Abnormality of large intestine,-0.832,2.186
+Functional,Viral life cycle,,2.208
+Functional,Proliferation of antigen presenting cells,,2.219
+Functional,Enteritis,,2.279
+Functional,Quantity of lymphoid tissue,,2.331
+Functional,Weight loss,,2.332
+Functional,Colitis,,2.349
+Functional,Infection of mammalia,,2.355
+Functional,Inflammation of gastrointestinal tract,,2.369
+Functional,Inflammation of absolute anatomical region,-0.596,2.499
+Functional,Formation of lymphoid organ,,2.809
+Functional,Formation of lymphoid tissue,,3.558
+Canonical,Interferon alpha/beta signaling,,-3.162
+Canonical,Role of Hypercytokinemia/hyperchemokinemia in the Pathogenesis of Influenza,,-2.714
+Canonical,Interferon gamma signaling,,-2.646
+Canonical,Class I MHC mediated antigen processing and presentation,,-2.646
+Canonical,Interleukin-1 family signaling,,-2.646
+Canonical,Pathogen Induced Cytokine Storm Signaling Pathway,,-2.357
+Canonical,Role of Chondrocytes in Rheumatoid Arthritis Signaling Pathway,,-2.333
+Canonical,Neutrophil degranulation,,-2.183
+Canonical,Tuberculosis Latent Signaling Pathway,,-2
+Canonical,Toll-like Receptor Signaling,,-2
+Canonical,Deubiquitination,,-2
+Canonical,MyD88:MAL(TIRAP) cascade initiated on plasma membrane,,-2
+Canonical,Cachexia Signaling Pathway,,-1.941
+Canonical,Immunogenic Cell Death Signaling Pathway,,-1.89
+Canonical,"Role of Macrophages, Fibroblasts and Endothelial Cells in Rheumatoid Arthritis",,-1.886
+Canonical,Neutrophil Extracellular Trap Signaling Pathway,,-1.732
+Canonical,Communication between Innate and Adaptive Immune Cells,,-1.667
+Canonical,Role of Pattern Recognition Receptors in Recognition of Bacteria and Viruses,,-1.633
+Canonical,Interleukin-10 signaling,,-1.633
+Canonical,p38 MAPK Signaling,,-1.633
+Canonical,Hepatic Cholestasis,,-1.508
+Canonical,Dendritic Cell Maturation,,-1.508
+Canonical,Osteoarthritis Pathway,,-1.342
+Canonical,Necroptosis Signaling Pathway,,-1.342
+Canonical,Antimicrobial peptides,,-1.342
+Canonical,ISGylation Signaling Pathway,,-1.342
+Canonical,Cerebral Malformation Signaling Pathway,,-1.342
+Canonical,LPS/IL-1 Mediated Inhibition of RXR Function,,-1.342
+Canonical,Interferon Signaling,,-1.342
+Canonical,Cellular Effects of Sildenafil (Viagra),,-1.265
+Canonical,IL-6 Signaling,,-1.265
+Canonical,Irritable Bowel Syndrome Signaling Pathway,,-1.265
+Canonical,Cardiac Hypertrophy Signaling (Enhanced),,-1.155
+Canonical,Neuroinflammation Signaling Pathway,,-1.155
+Canonical,Macrophage Alternative Activation Signaling Pathway,,-1.155
+Canonical,MSP-RON Signaling in Macrophages Pathway,,-1.134
+Canonical,CDX Gastrointestinal Cancer Signaling Pathway,,-1.134
+Canonical,IL-33 Signaling Pathway,,-1.134
+Canonical,Production of Nitric Oxide and Reactive Oxygen Species in Macrophages,,-1.134
+Canonical,CTLA4 Signaling in Cytotoxic T Lymphocytes,,-1.134
+Canonical,Role of PKR in Interferon Induction and Antiviral Response,,-1.134
+Canonical,Pyroptosis Signaling Pathway,,-1
+Canonical,Sheddase Signaling Pathway,,-1
+Canonical,NAFLD Signaling Pathway,,-1
+Canonical,Hepatic Fibrosis Signaling Pathway,,-1
+Canonical,TREM1 Signaling,,-1
+Canonical,Wound Healing Signaling Pathway,,-0.905
+Canonical,C-type lectin receptors (CLRs),,-0.816
+Canonical,Tumor Microenvironment Pathway,,-0.816
+Canonical,Preeclampsia Signaling Pathway,,-0.816
+Canonical,Adrenomedullin signaling pathway,,-0.816
+Canonical,Role of Osteoblasts in Rheumatoid Arthritis Signaling Pathway,,-0.707
+Canonical,Acute Phase Response Signaling,,-0.707
+Canonical,Parkinson's Signaling Pathway,,-0.707
+Canonical,S100 Family Signaling Pathway,,-0.688
+Canonical,CGAS-STING Signaling Pathway,,-0.632
+Canonical,Activin Inhibin Signaling Pathway,,-0.632
+Canonical,Macrophage Classical Activation Signaling Pathway,,-0.577
+Canonical,Class A/1 (Rhodopsin-like receptors),,-0.535
+Canonical,Activation of IRF by Cytosolic Pattern Recognition Receptors,,-0.447
+Canonical,Gap Junction Signaling,,-0.447
+Canonical,IL-17A Signaling in Fibroblasts,,-0.447
+Canonical,Adrenergic Receptor Signaling Pathway (Enhanced),,-0.447
+Canonical,Sleep REM Signaling Pathway,,-0.447
+Canonical,Role of MAPK Signaling in Inhibiting the Pathogenesis of Influenza,,-0.447
+Canonical,RAR Activation,,-0.378
+Canonical,NF-Œ∫B Signaling,,-0.378
+Canonical,Th2 Pathway,,-0.333
+Canonical,NOD1/2 Signaling Pathway,,-0.333
+Canonical,Glycation Signaling Pathway,,-0.333
+Canonical,Interleukin-4 and Interleukin-13 signaling,,-0.333
+Canonical,Role of Osteoclasts in Rheumatoid Arthritis Signaling Pathway,,-0.302
+Canonical,Hematoma Resolution Signaling Pathway,,-0.258
+Canonical,Complement cascade,,0
+Canonical,Systemic Lupus Erythematosus in B Cell Signaling Pathway,,0
+Canonical,Complement System,,0
+Canonical,IL-17 Signaling,,0
+Canonical,IL-13 Signaling Pathway,,0
+Canonical,ID1 Signaling Pathway,,0
+Canonical,Sertoli Cell-Germ Cell Junction Signaling Pathway (Enhanced),,0
+Canonical,White Adipose Tissue Browning Pathway,,0
+Canonical,IL-27 Signaling Pathway,,0
+Canonical,Colorectal Cancer Metastasis Signaling,,0
+Canonical,Integrin cell surface interactions,,0
+Canonical,Hepatitis B Chronic Liver Pathogenesis Signaling Pathway,,0
+Canonical,Autism Signaling Pathway,,0
+Canonical,Sertoli Cell-Sertoli Cell Junction Signaling,,0
+Canonical,Multiple Sclerosis Signaling Pathway,,0
+Canonical,RAF/MAP kinase cascade,,0
+Canonical,G alpha (i) signalling events,,0
+Canonical,Cyclophilin Signaling Pathway,,0
+Canonical,Crosstalk between Dendritic Cells and Natural Killer Cells,,0
+Canonical,IL-8 Signaling,,0
+Canonical,Coronavirus Pathogenesis Pathway,,0
+Canonical,PIP3 activates AKT signaling,,0
+Canonical,Molecular Mechanisms of Cancer,,0.218
+Canonical,Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell,,0.277
+Canonical,Lung Ionic Balance Signaling Pathway,,0.302
+Canonical,FXR/RXR Activation,,0.333
+Canonical,Type I Diabetes Mellitus Signaling,,0.378
+Canonical,Erythropoietin Signaling Pathway,,0.378
+Canonical,Natural Killer Cell Signaling,,0.378
+Canonical,Pulmonary Healing Signaling Pathway,,0.447
+Canonical,"PD-1, PD-L1 cancer immunotherapy pathway",,0.447
+Canonical,Role of JAK1 and JAK3 in Œ≥c Cytokine Signaling,,0.447
+Canonical,Leukocyte Extravasation Signaling,,0.447
+Canonical,Cholecystokinin/Gastrin-mediated Signaling,,0.447
+Canonical,Phagosome Formation,,0.5
+Canonical,Tuberculosis Active Signaling Pathway,,0.5
+Canonical,FAK Signaling,,0.626
+Canonical,Th1 Pathway,,0.707
+Canonical,Zn Homeostasis Signaling Pathway,,0.775
+Canonical,Breast Cancer Regulation by Stathmin1,,0.816
+Canonical,CREB Signaling in Neurons,,0.816
+Canonical,Epithelial Membrane Protein Signaling Pathway,,0.816
+Canonical,BBSome Signaling Pathway,,0.816
+Canonical,Serotonin Receptor Signaling,,1
+Canonical,Pulmonary Fibrosis Idiopathic Signaling Pathway,,1
+Canonical,Nuclear Cytoskeleton Signaling Pathway,,1
+Canonical,Caveolar-mediated Endocytosis Signaling,,1
+Canonical,Oxytocin in Brain Signaling Pathway,,1
+Canonical,Extra-nuclear estrogen signaling,,1
+Canonical,PPARŒ±/RXRŒ± Activation,,1
+Canonical,Cell surface interactions at the vascular wall,,1
+Canonical,IL-12 Signaling and Production in Macrophages,,1.069
+Canonical,Atherosclerosis Signaling,,1.134
+Canonical,IL-10 Signaling,,1.155
+Canonical,Integrin Signaling,,1.342
+Canonical,HER-2 Signaling in Breast Cancer,,1.342
+Canonical,TEC Kinase Signaling,,1.342
+Canonical,Role of Tissue Factor in Cancer,,1.342
+Canonical,MSP-RON Signaling in Cancer Cells Pathway,,1.342
+Canonical,IL-15 Production,,1.342
+Canonical,G-Protein Coupled Receptor Signaling,,1.508
+Canonical,Response to elevated platelet cytosolic Ca2+,,1.633
+Canonical,PPAR Signaling,,1.89
+Canonical,T Cell Receptor Signaling,,1.89
+Canonical,STAT3 Pathway,,2
+Canonical,IL-7 Signaling Pathway,,2.236
