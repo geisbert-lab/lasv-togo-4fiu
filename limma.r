@@ -665,39 +665,40 @@ supl.fig$E
 ggsave("analysis/celltypes-comparison.png", 
        units="in", width=7.5, height=5)
 
-# subset figure
-typelist <- c("B-cells", "NK cells", "Neutrophils", "Macrophages")
-pvalue <- filter(pvalue, Cell.Type %in% typelist)
+# subset figure: late/transitional only
+pvalue <- pvalue %>%
+          filter(Group=="Transitional/Late") %>%
+          mutate(Cell.Type=factor(Cell.Type, 
+                                  levels=sort(unique(anno$Cell.Type))),
+                 x=as.integer(Cell.Type),
+                 xmin=x-0.25,
+                 xmax=x+0.25,
+                 y.position=y.position+0.5)
 main.fig$E <- anno %>%
-              filter(Group!="Recovered",
-                     Group!="Early",
-                     Cell.Type %in% typelist) %>%
-              mutate(Group=factor(Group, 
-                                  levels=c("Baseline", "Middle", 
-                                           "Transitional", "Late"),
-                                  labels=c("Baseline", "Middle", 
-                                           "Transitional/Late",
-                                           "Transitional/Late"))) %>%
-              ggplot(aes(Group, log2CPM)) +
+              filter(Group %in% c("Transitional", "Late")) %>%
+              mutate(Treatment=factor(Treatment, levels=c("Control", "4' FIU"),
+                                      labels=c("Control, late",
+                                               "4' FIU, transitional"))) %>%
+              ggplot(aes(Cell.Type, log2CPM)) +
               geom_boxplot(aes(fill=Treatment), alpha=0.5, 
                            outliers=FALSE, col="black") +
               geom_point(aes(fill=Treatment, group=Treatment), 
-                         pch=21, size=0.5, 
+                         pch=21, size=0.75,
                          position=position_jitterdodge(jitter.height=0, 
                                                        jitter.width=0.2)) +
-              scale_fill_manual(values=cols.treat) +
+              scale_fill_manual(values=as.character(cols.treat)) +
               ggpubr::geom_bracket(data=pvalue, aes(label=pvalue)) +
-              facet_wrap(~Cell.Type, nrow=1, scales="free_y") +
-              # modulator to increase the y-axis limit of plots 
-              # with significance bars
-              geom_blank(data=pvalue, aes(y=y.position+0.6)) +
-              labs(x="Disease state",
-                   y="Mean log2CPM") +
+              labs(x="Cell type",
+                   y="Mean log2CPM",
+                   fill=element_blank()) +
               theme(legend.position="right",
                     axis.text.x=element_text(angle=45, hjust=1))
 main.fig$E
 ggsave("analysis/celltypes-highlight.png", 
        units="in", width=7.5, height=3)
+
+# clean up
+rm(anno, x, logcpm)
 
 ## pathways --------------------------------------------------------------------
 # what are the main differences between transitional vs late?
@@ -766,7 +767,7 @@ cowplot::plot_grid(x, main.fig$E, main.fig$F, labels=c(NA, "E", "F"),
                    ncol=1, rel_heights=c(2, 1, 1))
 ggsave("analysis/figure-main.png", units="in", width=7.5, height=12)
 
-# supplemental figure requires more paneling
+# supplemental figure
 x <- cowplot::plot_grid(supl.fig$A, supl.fig$B, nrow=1, rel_widths=c(2, 1), 
                         labels="AUTO")
 cowplot::plot_grid(x, supl.fig$C, supl.fig$D, supl.fig$E, 
