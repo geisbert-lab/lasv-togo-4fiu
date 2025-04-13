@@ -698,7 +698,7 @@ ggsave("analysis/celltypes-highlight.png",
        units="in", width=7.5, height=3)
 
 # clean up
-rm(anno, x, logcpm)
+rm(anno, logcpm)
 
 ## pathways --------------------------------------------------------------------
 # what are the main differences between transitional vs late?
@@ -762,16 +762,17 @@ ggsave("analysis/ipa-late.png",
 
 ## assemble figures ------------------------------------------------------------
 # main figure
-x <- cowplot::plot_grid(plotlist=main.fig[c("A", "B", "C", "D")], labels="AUTO")
-cowplot::plot_grid(x, main.fig$E, main.fig$F, labels=c(NA, "E", "F"), 
+x <- cowplot::plot_grid(plotlist=main.fig[c("A", "B", "C", "D")], 
+                        labels=c("a", "b", "c", "d"))
+cowplot::plot_grid(x, main.fig$E, main.fig$F, labels=c(NA, "e", "f"), 
                    ncol=1, rel_heights=c(2, 1, 1))
 ggsave("analysis/figure-main.png", units="in", width=7.5, height=12)
 
 # supplemental figure
 x <- cowplot::plot_grid(supl.fig$A, supl.fig$B, nrow=1, rel_widths=c(2, 1), 
-                        labels="AUTO")
+                        labels=c("a", "b"))
 cowplot::plot_grid(x, supl.fig$C, supl.fig$D, supl.fig$E, 
-                   ncol=1, labels=c(NA, "C", "D", "E"),
+                   ncol=1, labels=c(NA, "c", "d", "e"),
                    rel_heights=c(3, 3, 3, 4))
 ggsave("analysis/figure-supplemental.png", units="in", width=7.5, height=13)
 
