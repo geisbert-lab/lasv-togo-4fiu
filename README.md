@@ -1,5 +1,7 @@
 # 4' FIU antiviral rescues AGMs from Lassa fever: Nanostring transcriptomic analyses
 
+[![DOI](https://zenodo.org/badge/956165828.svg)](https://doi.org/10.5281/zenodo.15230969)
+
 > Paper citation TBD
 
 ## Methods
