@@ -12,7 +12,7 @@ Naïve clustering with principal component analysis (PCA) and k-means was used t
 
 ## Data availability
 
-The raw RCC files are available via NCBI GEO (accession TBD). The unformatted output figures are in [`analysis`](analysis/). The code is in [`limma.r`](limma.r). 
+The raw RCC files are available via NCBI GEO ([GSE294797](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE294797)). The unformatted output figures are in [`analysis`](analysis/). The code is in [`limma.r`](limma.r). 
 
  
 ![Transcriptomics figure](analysis/figure-main.png)
