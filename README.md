@@ -1,8 +1,8 @@
-# 4' FIU antiviral rescues AGMs from Lassa fever: Nanostring transcriptomic analyses
+# Oral 4′-fluorouridine rescues nonhuman primates from advanced Lassa fever: Nanostring transcriptomic analyses
 
 [![DOI](https://zenodo.org/badge/956165828.svg)](https://doi.org/10.5281/zenodo.15230969)
 
-> Paper citation TBD
+> Cross, R.W., Turcinovic, J., Prasad, A.N. *et al*. Oral 4′-fluorouridine rescues nonhuman primates from advanced Lassa fever. *Nature* (2026). https://doi.org/10.1038/s41586-025-09906-y
 
 ## Methods
 
