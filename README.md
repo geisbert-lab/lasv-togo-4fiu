@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/956165828.svg)](https://doi.org/10.5281/zenodo.15230969)
 
-> Cross, R.W., Turcinovic, J., Prasad, A.N. *et al*. Oral 4′-fluorouridine rescues nonhuman primates from advanced Lassa fever. *Nature* (2026). https://doi.org/10.1038/s41586-025-09906-y
+> Cross, R.W., Turcinovic, J., Prasad, A.N., Borisevich, V., Agans, K.N., Deer, D.J., O’Toole, R., Dobias, N.S., Woolsey, C.B., Fenton, K.A., Geisbert, T.W. (2026) *Oral 4′-fluorouridine rescues nonhuman primates from advanced Lassa fever*. Nature. [10.1038/s41586-025-09906-y](https://doi.org/10.1038/s41586-025-09906-y). PMID [41501462](https://pubmed.ncbi.nlm.nih.gov/42230576/).
 
 ## Methods
 
